@@ -394,9 +394,7 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 
 ---
 
-## 👥 Contributors & Acknowledgements
-
-- **Author**: Yash Pratap Singh ([@yash636768](https://github.com/yash636768)) & Aditya Raj ([@Aditya-Rajputt](https://github.com/Aditya-Rajputt))
-- Built for the **Cognizant Technical Hackathon**.
+##
+-
 - Course data grounded in Coursera catalog records.
 >>>>>>> Stashed changes
